@@ -1,4 +1,4 @@
-# Musci-Player-in-C
+# Music-Player-in-C
 ![image](https://github.com/user-attachments/assets/8b4a25c8-a526-4b8e-acf0-544ef02862be)
                 
 
