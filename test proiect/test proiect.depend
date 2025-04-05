@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1674012369 source:c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\untitled1.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"playlist.c"
+	"player.c"
+	"menu.c"
+	"favorite.c"
+
+1674011929 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\playlist.h
+
+1674011814 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\player.h
+
+1674011717 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\menu.h
+
+1674011603 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\favorite.h
+
+1674012721 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\playlist.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674013225 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\player.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674012719 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\menu.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674043603 c:\users\ilinca\onedrive - liceul teoretic pavel dan\desktop\cp\test proiect\favorite.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674015969 source:d:\n-am timp sa fac curat\cp\test proiect\untitled1.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"playlist.c"
+	"player.c"
+	"menu.c"
+	"favorite.c"
+
+1674016321 d:\n-am timp sa fac curat\cp\test proiect\playlist.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674016825 d:\n-am timp sa fac curat\cp\test proiect\player.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674016319 d:\n-am timp sa fac curat\cp\test proiect\menu.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1674047203 d:\n-am timp sa fac curat\cp\test proiect\favorite.c
+	<stdio.h>
+	<dirent.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<string.h>
+	<conio.h>
+	<MMsystem.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+
